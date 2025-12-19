@@ -24,4 +24,3 @@ linha.append_row([
 ])
 
 print("Dados adicionados com sucesso!")
-
